@@ -44,5 +44,8 @@
     "fs": false,
     "os": false,
     "path": false
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
   }
 }
